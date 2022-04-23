@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "enderore:ender_ore",
+    "enderore:deepslate_ender_ore",
+    "enderore:netherrack_ender_ore",
+    "enderore:endstone_ender_ore"
+  ]
+}

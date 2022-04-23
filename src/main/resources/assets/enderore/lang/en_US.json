@@ -1,0 +1,10 @@
+{
+  "item.enderore.ender_fragment" : "Ender Fragment",
+
+  "block.enderore.ender_ore" : "Ender Ore",
+  "block.enderore.deepslate_ender_ore" : "Deepslate Ender Ore",
+  "block.enderore.endstone_ender_ore" : "Endstone Ender Ore",
+  "block.enderore.netherrack_ender_ore" : "Netherrack Ender Ore",
+
+  "itemGroup.enderore_tab" : "Ender Ore Tab"
+}
