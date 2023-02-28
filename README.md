@@ -7,7 +7,7 @@ the situation is getting worse with other famous mod that require ender pearls i
 
 This mod adds Ender Ore Blocks in all of 3 Minecraft dimensions, which drops the Ender Shard, that combine in a 2x2 crafting gives you an Ender Pearl.
 
-### Requirements
+## Requirements
 Java JDK 17
 
 ## Setup & run
